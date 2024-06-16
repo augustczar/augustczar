@@ -1,3 +1,7 @@
+---
+marp: false
+---
+
 <h1>Hello, I'm Augusto Cesar</h1>
 
 <strong>Systems Development Analyst <qstrong> with extensive experience in the technology sector. Graduated in Computer Science, I have a broad background in developing innovative solutions for sectors such as finance, insurance, and public services. I specialize in distributed architectures, microservices, and agile methodologies. I am passionate about technologies like Java, Spring Boot, Docker, and Kubernetes, and I am always looking for new ways to optimize and modernize processes through efficient and high-quality solutions.<br>
@@ -19,6 +23,9 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+<img src="./assets/ejb.png"/>
+<img src="./assets/Struts.png"/>
+<img src="./assets/jsf.png"/>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![DOCKER Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
